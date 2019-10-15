@@ -1,2 +1,2 @@
-# LeetCode_practice
+# Code_practice
 Practice in Python and C++
